@@ -11,7 +11,7 @@
     $phpmailer->Password   = '16 character application password';
     $phpmailer->SMTPSecure = 'TLS';
     $phpmailer->From       = 'arriveddev.bz@gmail.com';
-    $phpmailer->FromName   = 'We';
+    $phpmailer->FromName   = 'Arriveddev';
 });
 
 SOURCE: https://arriveddev.com/send-mail-in-wordpress-without-using-plugin/
